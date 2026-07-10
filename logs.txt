@@ -1,0 +1,615 @@
+evit@kevit-OptiPlex-5080:~/Prit/base-repository$ git log --graph --decorate --all
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:41:53 2026 +0530
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:41:53 2026 +0530
+| | 
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:41:53 2026 +0530
+| | 
+| |     feat: added new stash file after main hot fix
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:41:53 2026 +0530
+| | 
+| |     feat: added new stash file after main hot fix
+| |   
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:41:53 2026 +0530
+| | 
+| |     feat: added new stash file after main hot fix
+| |   
+| | * commit 14acfbe0d5b5cbe12317f0129be6a1b6f6b2eae5 (origin/main, origin/HEAD, main)
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:41:53 2026 +0530
+| | 
+| |     feat: added new stash file after main hot fix
+| |   
+| | * commit 14acfbe0d5b5cbe12317f0129be6a1b6f6b2eae5 (origin/main, origin/HEAD, main)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+:...skipping...
+* commit 68e18b74a79e5f93598a4c66bca7c9167e570d25 (HEAD -> feature/feature-1, origin/feature/feature-1)
+| Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| Date:   Fri Jul 10 16:09:17 2026 +0530
+| 
+|     Add: added screenshots
+|   
+*   commit 235fa952cf4b98c37046a991c9ce81b77258b626
+|\  Merge: 383653f 8657632
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:05:45 2026 +0530
+| | 
+| |     Merge branch 'feature/f2' into feature/feature-1
+| | 
+| * commit 8657632f970e460120fffa62b02d9039a9f2a1e6 (origin/feature/f2, feature/f2)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:03:57 2026 +0530
+| | 
+| |     feat: new feature added , same as f1
+| | 
+| * commit d402184cbf75d9310791eef760b7319713f0905f (development)
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:33:33 2026 +0530
+| | 
+| |     feat : created demo_f2.py for new feature
+| | 
+* | commit 383653fb40102aa373684f483eaaca21622cc9d5
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 16:02:23 2026 +0530
+| | 
+| |     feat: new feature added
+| | 
+* | commit d6e0a23aed24fb7f57df2f3abf90af87034a5d87
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:54:36 2026 +0530
+| | 
+| |     fix: new good fix feature
+| |   
+| | * commit d61bf9175e871cb5dc0b5ee23eeaa1c2e4e360c9 (origin/feature/f3, feature/f3)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+|/|   Date:   Fri Jul 10 15:54:36 2026 +0530
+| |   
+| |       fix: new good fix feature
+| | 
+* | commit e60cdeb7e3dd70c80475c769903209a71128cb78
+| | Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| | Date:   Fri Jul 10 15:41:53 2026 +0530
+| | 
+| |     feat: added new stash file after main hot fix
+| |   
+| | * commit 14acfbe0d5b5cbe12317f0129be6a1b6f6b2eae5 (origin/main, origin/HEAD, main)
+| |/  Author: kevit-prit-kanani <prit.kanani@kevit.io>
+| |   Date:   Fri Jul 10 15:40:06 2026 +0530
+| |   
+| |       fix: fixed demo.py
+| |   
+:
